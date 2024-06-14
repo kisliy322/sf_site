@@ -1,1 +1,7 @@
-This is second file.
+<!DOCTYPE html>
+<html>
+	<head></head>
+	<body>
+		<h1>This is the second file.</h1>
+	</body>
+</html>
